@@ -1,13 +1,11 @@
-# internship_task
-user validation using php
+# PHP-MySQL-Login-System
+User login and registration system built using PHP and MySQL .
 
-Here you need to follow some steps
+**Live Project URL -** [PHP-MySQL-Login-System](https://live-demo97.000webhostapp.com/)
 
-Step 01 : download zip file
-step 02 : extract the file inside xampp/htdocs folder
-step 03 : open xampp server and start Apache , Mysql Services
-step 04 : click on admin inside the mysql xampp server
-step 05 : it will open the phpmyadmin panel
-step 06 : create a database name called registered
-step 07 : import sql file inside the database
-step 08 : open chrome browser type -> http://localhost/task/login.php
+![screenshot](./img/screenshot-1.png)
+![screenshot](./img/screenshot-2.png)
+![screenshot](./img/screenshot-3.png)
+![screenshot](./img/screenshot-4.png)
+![screenshot](./img/screenshot-5.png)
+![screenshot](./img/screenshot-6.png)
